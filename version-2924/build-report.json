@@ -1,0 +1,13 @@
+{
+  "parsed_movies": 2000,
+  "m3u8_sources_extracted": 150,
+  "html_pages": 2014,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_coverage": 2000,
+  "distinct_category_movie_ids": 2000,
+  "jpg_files_in_output": 0,
+  "baidu_missing_html_pages": 0,
+  "missing_internal_links": [],
+  "output_dir": "/mnt/data/static_movie_site"
+}
